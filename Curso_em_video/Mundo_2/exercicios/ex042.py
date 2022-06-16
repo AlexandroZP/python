@@ -11,4 +11,4 @@ if PL < SL + TL and SL < PL + TL and TL < PL + SL:
     else:
         print("Escaleno")
 else:
-    print("\nOs lados não formam um triangulo!")
+    print("\n\033[31mOs lados não formam um triangulo!")

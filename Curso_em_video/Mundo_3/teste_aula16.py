@@ -42,7 +42,7 @@ y = n + i
 
 print(y)
 print(y.count(4)) # A função count() nos diz quantas vezes o elemento indicado aparece na tupla
-print(y.index(4, 4)) # A função index() nos diz qual o primeiro que indice está o elemnto indicado a partir do indice indicado
+print(y.index(4, 4)) # A função index() nos diz qual o primeiro indice está o elemnto indicado a partir do indice indicado
 
 # Tuplas aceitam mais de um tipo de variavel
 k = ('Alex', 3, 4,5, True)

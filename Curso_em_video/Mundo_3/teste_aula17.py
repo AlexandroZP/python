@@ -19,7 +19,7 @@ else:
     print('Elemento não está na lista')
 
 for c, v in enumerate(num): # Pega tanto o indice(c) quanto o valor (v) do elemento
-    print(f'Elemento {v} na indice {c}')
+    print(f'Elemento {v} no indice {c}')
 print('Lista acabou')
 '''
 for cont in range(0, 5):
